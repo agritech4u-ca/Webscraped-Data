@@ -1,0 +1,4 @@
+Title,Link
+AAFC news releases,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=agricultureagrifood&sort=publishedDate&orderBy=desc&publishedDate>=2022-04-31&pick=100&format=atom&atomtitle=Canada%20News%20Centre%20-%20Agriculture%20and%20Agri-Food%20Canada
+Agriculture and Agri-Food Canada,https://agriculture.canada.ca/en
+News from Agriculture and Agri-Food Canada,https://agriculture.canada.ca/en/news
